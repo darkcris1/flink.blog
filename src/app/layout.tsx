@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: `Next.js Blog Example with ${CMS_NAME}`,
-  description: `A statically generated blog example using Next.js and ${CMS_NAME}.`,
+  title: `Flink Blog`,
+  description: `Flink Blog is a mobile application that helps to connect farmers.`,
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
